@@ -1,5 +1,7 @@
 # EzMail 📨
 
+#### Preview
+
 <img src="https://user-images.githubusercontent.com/99289712/194922623-cfa6efb4-e153-40bb-9414-063362d16585.png"/>
 
 #### How To Use
